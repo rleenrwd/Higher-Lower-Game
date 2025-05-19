@@ -28,11 +28,15 @@ Replayability: Offers endless combinations of options to keep the game engaging.
 Python 3.x
 
 ## 🧑‍💻 How to Run
+Clone the repo:
+
 git clone https://github.com/rleenrwd/Higher-Lower-Game.git
 
 cd Higher-Lower-Game
 
-Run the game with: python main.py
+Run the game with: 
+
+python main.py
 
 ## 🧠 What I Learned
 Enhanced my understanding of Python's random module for generating random selections.
