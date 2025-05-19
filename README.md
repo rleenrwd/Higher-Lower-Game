@@ -1,4 +1,5 @@
 # Higher-Lower Game
+## By Robert L. Norwood
 A Python-based command-line game where players guess which of two options has a higher social media following. Test your knowledge of popular figures and platforms in this engaging and educational game. **Created by Robert L. Norwood**
 
 ## 🎮 How to Play
